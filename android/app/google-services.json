@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532736115387",
+    "project_id": "nexoeshop",
+    "storage_bucket": "nexoeshop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532736115387:android:fae1217010351229e39f9e",
+        "android_client_info": {
+          "package_name": "com.example.eshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP0AnxRO343ZeDEuvIzUlb3KwG3MzNOJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
